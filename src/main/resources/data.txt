@@ -1,0 +1,16 @@
+TI,2344919,Pedro Perez,10,Quinto,SI
+RC,6351978,Maria Martinez,5,Jardin,SI
+RC,4953724,Lucia Lopez,7,Tercero,NO
+RC,5424555,Ana Amaris,6,Tercero,SI
+TI,12023002,Santiago Sanchez,10,Quinto,NO
+RC,1273391,Andrea Rodriguez,5,Primero,NO
+TI,13486543,Sebastian Garcia,9,Cuarto,NO
+TI,8790308,Jaime Jaramillo,8,Cuarto,NO
+TI,1454941,Juan Paez,11,Quinto,SI
+TI,7986335,Alberto Alvarez,10,Cuarto,SI
+RC,13056638,Rosa Martinez,7,Segundo,NO
+TI,4301520,Diego Diaz,12,Quinto,NO
+RC,13973270,Erika Bedoya,8,Tercero,NO
+RC,10616029,Mariana Arbelaez,6,Segundo,NO
+RC,10592138,Joaquin Zapata,5,Primero,NO
+RC,14598685,Samuel Marin,4,Jardin,SI
